@@ -1,15 +1,32 @@
+body{
+    height: 100vh;
+}
+
+ul{
+    gap: 0.5rem;
+}
+
+.fizz,
+.buzz,
+.fizzbuzz,
 .number{
-    color: rgb(60, 60, 60);
+    color: white;
+    padding: 8px 16px;
+    border-radius: 5px;
 }
 
 .fizz{
-    color: rgb(0, 214, 0);
+    background-color: rgb(225, 0, 0);
 }
 
 .buzz{
-    color: rgb(185, 0, 0);
+    background-color: rgb(0, 206, 27);
 }
 
 .fizzbuzz{
-    color: rgb(0, 128, 255);
+    background-color: rgb(0, 136, 254);
+}
+
+.number{
+    background-color: rgb(60, 60, 60);
 }
