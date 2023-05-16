@@ -1,0 +1,15 @@
+.number{
+    color: rgb(60, 60, 60);
+}
+
+.fizz{
+    color: rgb(0, 214, 0);
+}
+
+.buzz{
+    color: rgb(185, 0, 0);
+}
+
+.fizzbuzz{
+    color: rgb(0, 128, 255);
+}
